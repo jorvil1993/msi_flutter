@@ -13,7 +13,7 @@ void main() {
       body: Center(
         child: Image(
           image: NetworkImage(
-            'http://hdqwalls.com/wallpapers/manhattan-new-york-city-4k-je.jpg',
+            'https://assets3.thrillist.com/v1/image/2797371/size/tmg-article_default_mobile.jpg',
           ),
         ),
       ),
