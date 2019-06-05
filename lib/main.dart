@@ -13,7 +13,7 @@ void main() {
       body: Center(
         child: Image(
           image: NetworkImage(
-            'https://assets3.thrillist.com/v1/image/2797371/size/tmg-article_default_mobile.jpg',
+            'https://amp.businessinsider.com/images/5b33c37a1ae6621d008b499c-750-562.jpg',
           ),
         ),
       ),
