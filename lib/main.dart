@@ -12,8 +12,8 @@ void main() {
       backgroundColor: Colors.blueGrey,
       body: Center(
         child: Image(
-          image: NetworkImage(
-            'https://amp.businessinsider.com/images/5b33c37a1ae6621d008b499c-750-562.jpg',
+          image: AssetImage(
+            'images/diamond.png',
           ),
         ),
       ),
